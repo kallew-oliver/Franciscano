@@ -245,17 +245,7 @@ const herbs = [
     /*
     =============== E ===============
     */
-   
-    {
-        nome: "Erva-cidreira",
-        imagem: "assets/ervas/erva-cidreira.jpg",
-        tipo: "fria",
-        tipoLabel: "💧 Fria",
-        funcao: "Calma, paz, harmonização",
-        orixa: "Nanã",
-        uso: "Banho"
-    },
-
+      
     {
         nome: "Erva-doce",
         imagem: "assets/ervas/erva-doce.jpg",
